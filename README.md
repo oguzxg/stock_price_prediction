@@ -2,7 +2,7 @@
 
 In the realm of finance, predicting stock prices is an ongoing challenge. In this project, we focus on Google's stock price prediction using advanced Time Series Prediction techniques, specifically Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM).
 
-This endeavor revolves around:
+This project revolves around:
 
 1. The Challenge: Predicting stock prices is complex due to numerous influencing factors. Time Series Prediction methods, particularly RNN LSTM, offer a powerful approach by considering the sequential nature of financial data.
 
